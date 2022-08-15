@@ -1,6 +1,6 @@
 # console.log("Hi there! 👋");
 
-My name is **Vinicius Meneses** and I'm a web developer graduated in System Analysis and Development. I'm from Brazil and currently working at Tagview Tecnologia. You can find me on [LinkedIn](https://www.linkedin.com/in/vinicius-meneses/).
+My name is **Vinicius Meneses** and I'm a software engineer graduated in System Analysis and Development. I'm from Brazil and currently working at [RD Station](https://github.com/ResultadosDigitais). You can find me on [LinkedIn](https://www.linkedin.com/in/vinicius-meneses/).
 
 ## 🔧 Technologies
 
@@ -23,7 +23,7 @@ My name is **Vinicius Meneses** and I'm a web developer graduated in System Anal
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/viniciusmeneses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmeneses&show_icons=true&line_height=27&count_private=true&theme=github_dark&custom_title=Vinicius's GitHub Stats" alt="Vinicius's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusmeneses&show_icons=true&line_height=27&count_private=true&theme=github_dark" />
 </a>
 <a href="https://github.com/viniciusmeneses">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmeneses&hide=html&langs_count=3&theme=github_dark" />
