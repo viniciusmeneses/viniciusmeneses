@@ -1,6 +1,6 @@
 # puts "Hi there! 👋"
 
-My name is **Vinicius Meneses** and I'm a software engineer graduated in System Analysis and Development. I'm from Brazil and currently working at [RD Station](https://github.com/ResultadosDigitais). You can find me on [LinkedIn](https://www.linkedin.com/in/vinicius-meneses/).
+My name is **Vinicius Meneses** and I'm a software engineer graduated in System Analysis and Development. I'm from Brazil and currently working at [Factorial](https://github.com/factorialco). You can find me on [LinkedIn](https://www.linkedin.com/in/vinicius-meneses).
 
 ## 🔧 Technologies
 
